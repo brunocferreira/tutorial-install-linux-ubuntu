@@ -4,6 +4,8 @@ Se você está querendo começar no mundo do Linux, o Ubuntu é uma das distribu
 
 > **Autor**: _Bruno da Cunha Ferreira_
 
+> Disponível em: [https://github.com/brunocferreira/tutorial-install-linux-ubuntu](https://github.com/brunocferreira/tutorial-install-linux-ubuntu)
+
 ---
 
 ## 1. Acesse o site do Ubuntu
